@@ -1,0 +1,3 @@
+G:/project/C/UPC/cmake-build-debug/CMakeFiles/UPC.dir
+G:/project/C/UPC/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/project/C/UPC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
